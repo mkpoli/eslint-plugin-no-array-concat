@@ -15,8 +15,8 @@
   ],
   "scripts": {
     "clean": "rimraf dist",
-    "build:typescript": "tsc",
-    "build": "run-s clean build:typescript",
+    "build": "tsc",
+    "clean-build": "run-s clean build:typescript",
     "test": "jest",
     "publish": "release-it",
     "release": "run-s clean build test publish"
