@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-array-concat",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "ESLint rule for not using Array.prototype.concat()",
   "keywords": [
     "eslint",
