@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "noEmit": true
+  },
+  "files": [
+    "estree.ts"
+  ],
+  "include": [
+    "tests/**/*.ts",
+  ]
+}
