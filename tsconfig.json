@@ -19,12 +19,12 @@
       "node",
     ],
     "typeRoots": [
-      "./src/"
+      "./"
     ]
   },
   "include": [
     "src",
-    "tests"
+    "global.d.ts",
   ],
   "exclude": ["node_modules", "tests"]
 }
